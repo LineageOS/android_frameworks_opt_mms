@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a0c5dc1_bbb33f0a",
+        "filename": "src/java/com/google/android/mms/pdu/PduPersister.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 1346,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2013-09-12T18:27:11Z",
+      "side": 1,
+      "message": "Please also adjust the comment.",
+      "revId": "8c06d8d7b7ad73808953f7c40dc0b624635fa96a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
